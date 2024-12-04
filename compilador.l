@@ -2,6 +2,7 @@
 	#include <stdio.h>
 	#include <stdlib.h>
 	#include "compilador.tab.h"
+	/*Agregando un comentario*/
 %}
 
 %%  
